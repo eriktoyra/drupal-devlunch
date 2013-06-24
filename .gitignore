@@ -1,6 +1,8 @@
+# ET 2013-06-24: Commented out the gitignore rules below since we are using a SQLLite DB and this is an demo installation.
+
 # Ignore configuration files that may contain sensitive information.
-sites/*/settings*.php
+#sites/*/settings*.php
 
 # Ignore paths that contain user-generated content.
-sites/*/files
-sites/*/private
+#sites/*/files
+#sites/*/private
